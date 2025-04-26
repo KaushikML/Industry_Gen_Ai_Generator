@@ -28,8 +28,8 @@ market_research_agent/
 
 ## 🚀 Installation
 ```bash
-git clone <repo-url>
-cd market_research_agent
+git clone https://github.com/KaushikML/Industry_Gen_Ai_Generator
+cd Industry_Gen_Ai_Generator
 pip install -r requirements.txt
 ```
 
